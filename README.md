@@ -260,7 +260,7 @@ This tool is for educational and research purposes. Please respect Etsy's robots
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing
 
 ## 📞 Support
-
+Email me at bzpw00@gmail.com
 If you encounter any issues:
 
 1. Check the [Setup Guide](SETUP_GUIDE.md)
