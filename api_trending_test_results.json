@@ -1,0 +1,32 @@
+[
+  {
+    "test_name": "API Health Check",
+    "success": true,
+    "details": "Server running, 5 bots available",
+    "timestamp": "2025-06-10T19:18:47.096174"
+  },
+  {
+    "test_name": "Trending Endpoint Structure",
+    "success": true,
+    "details": "Valid structure with 17 keywords",
+    "timestamp": "2025-06-10T19:18:48.428952"
+  },
+  {
+    "test_name": "Trending Keywords Quality",
+    "success": true,
+    "details": "Score: 100%, Keywords: ['Cottagecore', 'Dark Academia', 'Y2K Aesthetic', 'Minimalist Design', 'Boho Chic']..., Trend keywords: ['Cottagecore', 'Y2K Aesthetic', 'Minimalist Design']",
+    "timestamp": "2025-06-10T19:18:53.578825"
+  },
+  {
+    "test_name": "Trending Endpoint Performance",
+    "success": true,
+    "details": "Avg: 2.62s, Max: 4.45s, Success: 3/3",
+    "timestamp": "2025-06-10T19:19:05.446765"
+  },
+  {
+    "test_name": "Trending Consistency",
+    "success": true,
+    "details": "Overlap: 17 keywords, Consistency: 1.00",
+    "timestamp": "2025-06-10T19:19:14.602685"
+  }
+]
